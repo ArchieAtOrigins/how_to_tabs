@@ -1,4 +1,5 @@
 How To: Tabs
 ============
 
-To Run The Build, type in 'node build.js'.
+Install jake: 'npm install jake -g'
+Run Jake: 'jake'
